@@ -1,0 +1,10 @@
+var first_name = "Lucas";
+var last_name = "Hodgson";
+console.log(first_name);
+console.log(last_name);
+var full_name = first_name.concat(last_name);
+console.log(full_name);
+var age = "12 years old";
+var a = "I am";
+var add = a + age;
+console.log(add);
